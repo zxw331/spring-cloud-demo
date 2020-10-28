@@ -1,7 +1,1 @@
-data:
-  env: config-eureka-prod
-  user:
-    username: client-user2
-    password: 123
-
-name:yyyy
+data: yyyy
