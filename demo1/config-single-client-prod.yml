@@ -1,5 +1,5 @@
 data:
-  env: localhost-online
+  env: config-eureka-prod
   user:
-    username: zhang
-    password: online
+    username: client-user2
+    password: 123
