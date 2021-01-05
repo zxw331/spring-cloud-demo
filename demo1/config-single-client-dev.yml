@@ -1,1 +1,4 @@
-data: xxx
+data:
+  usr:
+    username:zhangsan
+    password:123456
