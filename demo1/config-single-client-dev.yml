@@ -1,4 +1,4 @@
 data:
   user:
-  username:zhangsan
+    username:zhangsan
     password:123456
