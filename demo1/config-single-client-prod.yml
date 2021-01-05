@@ -1,5 +1,4 @@
 data:
-  env:prod
   user:
-    username:lisi
+  username:lisi
     password:123456
