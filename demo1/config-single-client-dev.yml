@@ -1,5 +1,5 @@
 data:
   env:dev
-  user:
+  usr:
     username:zhangsan
     password:123456
