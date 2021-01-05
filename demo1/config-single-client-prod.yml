@@ -1,1 +1,5 @@
-data: yyyy
+data:
+  env:prod
+  user:
+    username:lisi
+    password:123456
